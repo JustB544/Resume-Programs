@@ -1,6 +1,5 @@
-
 //Finds the minimal average of any slice containing at least two elements.
-//roughly O(n) time complexity and O(1) space complexity (disregarding the input array)
+//~O(n) time complexity and ~O(1) space complexity (disregarding the input array)
 
 #include <vector>
 
